@@ -1,2 +1,3 @@
-# Infant-Cc
-Dummy 𝓒 compiler
+# icc
+
+Infant 𝓒 compiler
